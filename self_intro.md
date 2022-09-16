@@ -24,8 +24,8 @@
 
 ## 兴趣爱好
 
-- Sports : table tennis, tennis, billiards, swimming, skating, skiing、e-sports（Clash Royale, Boom Beach, Brawl Stars）
-- Art : comics, sketch, calligraphy, piano
+- 运动 : 乒乓球, 游泳, 滑冰, e-sports
+- 艺术 : 漫画, 素描, 钢琴
 
 ---
 
@@ -67,4 +67,4 @@
 
 
 
-<img src="http://home.ustc.edu.cn/~logname/QRCode.png" style="zoom:50%;" />
+<img src="pictures/QRCode.png" style="zoom:50%;" />
