@@ -1,0 +1,70 @@
+# Self Introduction
+
+郭耸霄
+
+2022-09-16
+
+---
+
+## 基本信息
+
+- 姓名：郭耸霄
+- 性别：男
+- 年龄：20
+- 家乡：黑龙江哈尔滨
+
+---
+
+## 主要学业
+
+- 2020.09 - now : 中国科学技术大学-计算机科学与技术学院-华夏计算机科技英才班
+- 2017.08 - 2020.07 : 哈尔滨市第三中学校
+
+---
+
+## 兴趣爱好
+
+- Sports : table tennis, tennis, billiards, swimming, skating, skiing、e-sports（Clash Royale, Boom Beach, Brawl Stars）
+- Art : comics, sketch, calligraphy, piano
+
+---
+
+## 主要组织
+
+- 2021.10 - now : 中国科大-Linux User Group-成员
+- 2021.09 - now : 中国科大-学生乒乓球协会-成员
+- 2021.04 - now : 中国科大-20级计算机3班-班长
+- 2021.04 - 2022.04 : 中国科大-第25届学生代表大会-学生代表
+- 2020.08 - 2021.09 : 中国科大-20级计算机3班-心理委员
+
+---
+
+## 主要技能
+
+- 语言-可以使用：汉语、English、 C、C++、Java、HDL(Verilog)、$\LaTeX$、Markdown、Python、Assembly(LC-3、RISC-V、LoongArch)
+
+- 语言-简要了解：日本語、Rust、Assembly(MIPS、x86)、JavaScript、HTML
+
+---
+
+## 主要工作
+
+- 2022.08 - now 中国科大-数理逻辑与图论(210037.01)-课程助教
+
+- 2022.01 - 2022.02 中国科大-黑龙江省返校宣讲团-成员
+
+---
+
+## 主要获奖
+
+- 2022.08 : 第六届“龙芯杯”全国大学生计算机系统能力培养大赛-LoongArch挑战赛-第二名
+
+---
+
+## 谢谢大家！
+
+了解更多可以扫描个人主页二维码
+
+
+
+<img src="http://home.ustc.edu.cn/~logname/QRCode.png" style="zoom:50%;" />
